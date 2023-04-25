@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**AmBplus/AmBplus** is a ✨ _special_ ✨ 
+**AmBplus** is a ✨ _special_ ✨ 
 
 
 - 🔭 I’m currently working on Some Ai Model Like LLB-200 
