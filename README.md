@@ -7,9 +7,9 @@
 
 
 
-- 🔭 I’m currently working on Some Ai Model Like LLB-200 And https://github.com/AmBplus/CoreMarket
-- 🌱 I’m currently learning To Be Good
-- 👯 I’m looking to collaborate on Pariatech  
+- 🔭 I’m currently working on Creating Blazor Admin Panel 
+- 🌱 I’m currently learning To Be Better Than Yesterday
+- 👯 I’m looking to collaborate on Pariatech And Azad University As Developer
 - 💬 Ask me about C#,Asp.net Core,(Clean,MVC,Onion)Architechture,Blazor,Blazor Hybrid
 - 📫 How to reach me: https://t.me/AmbPlus
 - 😄 Pronouns: The Life Is So Short , Don't Afraid And Live Proudly
