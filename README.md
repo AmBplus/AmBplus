@@ -11,9 +11,7 @@
 - 🌱 I’m currently learning To Be Better Than Yesterday
 - 👯 I’m collaborate on Pariatech And Azad University As Developer
 - 💬 Ask me about C#,Asp.net Core,(Clean,MVC,Onion)Architechture,Blazor,Blazor Hybrid
-- 📫 How to reach me: https://t.me/AmbPlus - Gmail : ambplus9@gmail.com
+- 📫 How to reach me: https://t.me/amir_m_beygi - Gmail : ambplus9@gmail.com
 - 😄 Pronouns: The Life Is So Short , Don't Afraid And Live Proudly
-- ⚡ Fun fact: I love Japan , China , Korea Novel
 
-  
 
